@@ -7,4 +7,4 @@ While doing cleaning the tasks was to get rid of unwanted characters from the da
 While analysing the date, similar approach was taken where important steps are mentioned in the file.
 After visualization, output has been saved in Top_Ten_Facilities_Population.png which can be found in this repository.
 
-If you wish to go through separate file for separate tasks you can do that as well or else you can go through all the exercise in Immigration_Detention_Data_Analysis_Visualization(All Code in One File).ipynb. 
+If you wish to go through separate file for separate tasks you can do that as well or else you can go through all the exercise in Immigration_Detention_Data_Analysis_Visualization(All Code in One File).ipynb.
